@@ -1,0 +1,4 @@
+1) Install react-native-cli
+    yarn global add react-native-cli
+2) Create app:
+    react-native init kickoffcentral
