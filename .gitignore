@@ -203,7 +203,7 @@ ios/Podfile.lock
 
 /kickoffcentral/coverage
 yarn.lock
-kickoffcentral/yarn.lock
+/kickoffcentral/yarn.lock
 /kickoffcentral/ios/Podfile.lock
 /kickoffcentral/ios/kickoffcentral.xcworkspace/contents.xcworkspacedata
 # Xcode
